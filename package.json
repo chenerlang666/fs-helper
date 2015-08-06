@@ -1,5 +1,5 @@
 {
-  "name": "fs-helper",
+  "name": "cel-fs-helper",
   "version": "0.0.1",
   "description": "fs module uitls funcs",
   "main": "index.js",
