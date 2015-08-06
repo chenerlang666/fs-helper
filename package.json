@@ -1,0 +1,25 @@
+{
+  "name": "fs-helper",
+  "version": "0.0.1",
+  "description": "fs module uitls funcs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/chenerlang666/fs-helper.git"
+  },
+  "keywords": [
+    "fs",
+    "fs-helper"
+  ],
+  "author": "mingyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenerlang666/fs-helper/issues"
+  },
+  "homepage": "https://github.com/chenerlang666/fs-helper",
+  "devDependencies": {
+  }
+}
